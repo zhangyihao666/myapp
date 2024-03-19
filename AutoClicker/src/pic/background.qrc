@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="background">
+    <file>zky.svg</file>
+  </qresource>
+</RCC>
