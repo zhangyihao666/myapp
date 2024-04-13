@@ -1,0 +1,505 @@
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\bin\A35Demo.exe
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\bin\Flir.Cronos.Common.dll
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\obj\Debug\A35Demo.csprojResolveAssemblyReference.cache
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.Cache
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\obj\Debug\A35Demo.exe
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\obj\Debug\A35Demo.pdb
+F:\FLIR 软件硬件 综合库\Ax5 SDK 开发汇总\A35 c# SDK 开发包\A35 demo杭州申昊\A35Demo\A35Demo\bin\A35Demo.pdb
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\bin\A35Demo.exe
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\bin\A35Demo.pdb
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\obj\Debug\A35Demo.csprojAssemblyReference.cache
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\hzsj327\Desktop\A6xxc# SDK 开发包\A6xxc# SDK 开发包\A35 c# SDK 开发包\A315Demo\A35Demo\obj\Debug\A35Demo.pdb
+E:\学习资料？\A315Demo\A35Demo\bin\A35Demo.exe
+E:\学习资料？\A315Demo\A35Demo\bin\A35Demo.pdb
+E:\学习资料？\A315Demo\A35Demo\bin\Flir.Cronos.Common.dll
+E:\学习资料？\A315Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+E:\学习资料？\A315Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+E:\学习资料？\A315Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+E:\学习资料？\A315Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+E:\学习资料？\A315Demo\A35Demo\obj\Debug\A35Demo.csprojAssemblyReference.cache
+E:\学习资料？\A315Demo\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+E:\学习资料？\A315Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+E:\学习资料？\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+E:\学习资料？\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+E:\学习资料？\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+E:\学习资料？\A315Demo\A35Demo\obj\Debug\A35Demo.exe
+E:\学习资料？\A315Demo\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo\A35Demo\obj\Debug\A35Demo.PID.resources
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\obj\Debug\A35Demo.PID.resources
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo-7.26\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\obj\Debug\A35Demo.PID.resources
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo-7.26 2\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\obj\Debug\A35Demo.PID.resources
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo-7.27\A35Demo\obj\Debug\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\A35Demo.exe.config
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.PID.resources
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo-7.27 2\A315Demo-7.27 2\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 7.30\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 7.31 2\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 7.31\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 8.8\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 8.9\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 8.17\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+D:\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.1\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 9.2\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.4\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FYL.resources
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FYL.resources
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 9.12\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.FYL.resources
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo 7.31\A315Demo-7.30\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.FYL.resources
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 9.13\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.FYL.resources
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.15\A315Demo\A35Demo\obj\Debug\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\A35Demo.exe.config
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.FYL.resources
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.FYL.resources
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.15 2\A315Demo\A35Demo\obj\Debug\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\A35Demo.exe.config
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\A35Demo.pdb
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\Flir.Cronos.Common.dll
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.FYL.resources
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.exe
+C:\Users\xrd\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\A35Demo.exe.config
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\A35Demo.pdb
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\Flir.Cronos.Common.dll
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\Flir.Cronos.Filter.dll
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\Flir.Cronos.Filter.Adapter.dll
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\Flir.FormatPlugin.IRSDK.dll
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\bin\FLIRCommunicationsAdapter.dll
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.FrmMain.resources
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.Properties.Resources.resources
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.csproj.CopyComplete
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.exe
+\\Mac\Home\Desktop\A315Demo 9.16\A315Demo\A35Demo\obj\Debug\A35Demo.pdb

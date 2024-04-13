@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{86B11C04-403F-4288-AAB6-1CF27F2B9C74}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="A35Demo/FrmMain.cs">
+    <Files>
+      <File FileName="A35Demo/Program.cs" />
+      <File FileName="A35Demo/FrmMain.Designer.cs" />
+      <File FileName="A35Demo/FlirCamera.cs" />
+      <File FileName="A35Demo/FrmMain.resx" />
+      <File FileName="A35Demo/FrmMain.cs" Line="17" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A35Demo" expanded="True">
+            <Node name="A35Demo" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="FrmMain.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.A35Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
